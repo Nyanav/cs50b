@@ -1,1 +1,1 @@
-# cs50b
+This project is a front-end web development project for Harvard's CS50 for Business Professionals
