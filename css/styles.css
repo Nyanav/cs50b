@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+}
+
+h1,h2{
+    color: #393E46;
+    padding: 25px;
+}
+
+p{
+    color: #393E46;
+    font-size: 20px;
+}
+
+#navbar{
+    background-color: #EEEEEE;
+    margin-top: 0;
+    padding: 5px;
+    position: relative;
+}
+
+.describe{
+    position: absolute;
+    top: 0;
+    left: 300px;
+    font-size: 25px;
+
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+
+.servtop{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: #222831;
+    font-family: 'Faustina', serif;
+}
+
+.abouttop{
+    position: absolute;
+    right: 100px;
+    top: 40px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: #222831;
+    font-family: 'Faustina', serif;
+}
+
+#upper-container{
+    background-image: url("/images/consulting.jpeg");
+    width: auto;
+    height: 600px;
+    margin: 0;
+}
+
+.introhead{
+    margin-top: 0;
+    font-size: 25px;
+    padding-top: 40px;
+    padding-bottom: 0;
+    font-family: 'Playfair Display', serif;
+    color: #393E46;
+    font-weight: bold;
+    position: relative;
+    left: 30px;
+}
+
+.attention{
+    font-size: 80px;
+    
+}
+
+.intro{
+    font-size: 60px;
+    margin: 0;
+    padding: 20px;
+    font-family: 'Playfair Display', serif;
+    color: #393E46;
+    font-weight: bold;
+    position: relative;
+    left: 30px;
+}
+
+#midintro{
+    text-align: center;
+    color: #393E46;
+
+}
+
+.socmed{
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+    
+}
+
+.servrow{
+    text-align: justify;
+    width: 50%;
+    margin: 100px auto;
+}
+
+.servhead1{
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.chess{
+    width: 150px;
+    float: right;
+    margin-left: 30px;
+}
+ 
+.servhead2{
+    padding-left: 0;
+}
+
+#bottom-container{
+    background-image: url("https://www.therev.co.nz/wp-content/uploads/2020/07/656668.jpg");
+    height: 600px;
+    width: auto;
+    position: relative
+}
+
+.testimg{
+    height: 200px;
+    float: left;
+    margin-right: 50px;
+}
+
+.testimony{
+    text-align: justify;
+    width: 50%;
+    margin: 50px auto;
+    padding-top: 60px;
+}
+
+.testitext1{
+    padding-top: 0;
+}
+
+.testitext2{
+    padding-top: 0;
+    margin-top:0;
+}
+
+#footer{
+    height: 100px;
+    background-color: #222831;
+}
