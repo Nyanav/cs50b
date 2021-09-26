@@ -58,7 +58,7 @@ p{
 }
 
 #upper-container{
-    background-image: url("/images/consulting.jpeg");
+    background-image: url("../images/consulting.jpeg");
     width: auto;
     height: 600px;
     margin: 0;
