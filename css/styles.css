@@ -186,9 +186,9 @@ p{
     cursor: pointer;
     text-align: center;
     margin: 20px auto;
- }
+}
  
- .emailbutton:hover {
+.emailbutton:hover {
     border: solid #337FED 1px;
     background: #1E62D0;
     background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
@@ -200,4 +200,30 @@ p{
     -moz-border-radius: 20px;
     border-radius: 20px;
     text-decoration: none;
- }
+}
+
+#about-container{
+    background-image: url("https://wallpaperaccess.com/full/2655944.jpg");
+    width: auto;
+    height: 600px;
+    margin: 0;
+    position: relative;
+}
+
+.textbox{
+    position: absolute;
+    width: 700px;
+    height: 500px;
+    background-color: white;
+    opacity: 0.9;
+    left: 370px;
+    top: 50px;
+    text-align: center;
+}
+
+
+.abouttext{
+    padding: 30px;
+    text-align: justify;
+    font-family: 'Lato', sans-serif;
+}
